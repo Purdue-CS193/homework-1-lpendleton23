@@ -1,7 +1,5 @@
 # Lily Pendleton's First CS193 Homework
 
-```markdown
-
 ## My favorite things about CS 193:
 
 - Arianna and Sarah are very nice and fun to listen to
